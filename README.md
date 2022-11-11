@@ -2,7 +2,7 @@
 Se trata del proyecto final de la materia de PC orientada a objetos
 
 #Explicación del proyecto.
-El proyecto va a consistir en un programa que ayuda a los alumnos de una escuela que cuentan con primaria, secundaria y preparatoria a revisar sus calificaciones. Dependiendo del nivel academico habra más o menos materias.
+El proyecto va a consistir en un programa que ayuda a los alumnos de una escuela que cuentan con primaria, secundaria y preparatoria a revisar sus calificaciones. 
 
 Para los alumnos de primaria solo podran revisar su calificación y un comentario que realizó el maestro acerca de su aprendizaje.
 
