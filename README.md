@@ -13,3 +13,5 @@ Las calificaciones deberan de ser introducidas en una escala 1-100, siendo el 1 
 
 Antes de que un alumno pueda revisar sus calificaciones el usuario se tendrá que meter como maestro para introducir sus respectivas calificaciones.
 
+# NOTA
+Los strings que sean cin deben de ser de una sola línea.
