@@ -1,0 +1,18 @@
+﻿Pablo Pérez Sandoval                                                a01710355
+
+
+                                Correcciones.                                                
+
+
+
+
+Después de la entrega número 2 se hizo una completa restructuración del diagrama de clases. Se creó una clase padre (Alumno) que es una clase abstracta. La clase “Alumno” hereda los objetos (esp ,mate ,hist,ing,nombre ,promedio,matrícula) y los métodos (VerCalis(), getters y setters) a las clases “Primaria”, “Secundaria” y “Preparatoria”.
+Se corrigió toda la sintaxis del UML y se agregó una clase nueva llamada “Escuela” para así poder tener composición tanto en el programa como en el UML.
+
+
+
+
+Y en el código se agregaron todos los getters y setters para cada una de las variables que fueron creadas, tanto en las clases hijas como en la clase padre.
+
+
+Las competencias que se buscan reevaluar son las siguientes.
